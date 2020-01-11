@@ -1,6 +1,8 @@
 # jedi_contact
 
-A new Flutter application to track Tel:contacts
+A new Flutter application to track Tel:contacts, 
+brought to you by Edward Hooks Jr, Castle Rock, Co
+Copyright (c) 2020
 
 ## Getting Started
 
